@@ -1,0 +1,7 @@
+main: me.marius.main.Main
+version: 1.0
+name: ClanSystem
+author: einMarius
+
+commands:
+  clan:
